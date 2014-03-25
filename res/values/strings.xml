@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">In Class 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_label">Generate Image AsyncTask</string>
+    <string name="ifest_main_image">http://farm9.staticflickr.com/8083/8415182658_5402d77eeb_z.jpg</string>
+    <string name="commencement_main_image">http://farm9.staticflickr.com/8218/8278724118_9a28024cf5_z.jpg</string>
+    <string name="uncc_main_image">http://farm9.staticflickr.com/8196/8114421135_7c5cbb874b_z.jpg</string>
+    <string name="football_main_image">http://farm9.staticflickr.com/8441/7882624916_5f62cb318f_z.jpg</string>
+    <string name="title_activity_photo">UNC Charlotte Photos</string>
+    <string name="button2_label">Exit</string>
+    <string name="ifest_label">Ifest</string>
+    <string name="commencement_label">Commencement</string>
+    <string name="uncc_label">UNC Charlotte</string>
+    <string name="sports_label">Sports</string>
+    <string name="notfound_label">!!Not Found!!</string>
+
+</resources>
